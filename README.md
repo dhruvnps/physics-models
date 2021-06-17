@@ -4,3 +4,9 @@
 
 - [bungee-jump](https://github.com/dhruvnps/physics-models/tree/master/bungee-jump)
 - harmonic motion
+
+Installing matplotlib using pip:
+
+```console
+$ python -m pip install -U matplotlib
+```
