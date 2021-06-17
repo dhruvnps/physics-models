@@ -27,7 +27,7 @@ $ git clone https://github.com/dhruvnps/physics-models && cd physics-models/harm
 
 ### Adjustable parameters
 
-- gravitational field strength (g)
+- inital displacement (init. displ.)
 - mass (m)
 - spring constant (k)
-- length
+- decay rate (decay)
